@@ -60,3 +60,20 @@ npm test
 - Local storage persistence.
 - Basic responsive design for different screen sizes.
 
+## Screenshots
+
+# Personal Information Page
+![image](https://github.com/user-attachments/assets/d409b402-42a9-4f90-9191-410f6db0a091)
+
+# Address Information Page
+![image](https://github.com/user-attachments/assets/b641b9d3-e61d-4e94-99c8-be830e434d7b)
+
+# Review Page for Confimation
+![image](https://github.com/user-attachments/assets/ddd82d9b-088a-47a4-9d65-55d39190a19a)
+
+# LocalStorage data
+![image](https://github.com/user-attachments/assets/5ca735a2-ab2e-44e5-8b36-e52389830acf)
+
+# Test Result
+![image](https://github.com/user-attachments/assets/0e4e9fad-0289-4acd-991d-0d87162fb1c5)
+
